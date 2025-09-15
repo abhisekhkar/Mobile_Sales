@@ -43,6 +43,3 @@ This dashboard is ideal for retail businesses or mobile manufacturers looking to
 - Monitor **monthly trends** to forecast demand
 
 ---
-
-## 💼 Resume/Portfolio Snippet (Short version):
-> Built an interactive Power BI dashboard to analyze mobile phone sales data, showcasing key metrics like brand-wise sales, regional trends, and monthly performance. Implemented DAX measures and slicers for dynamic, user-driven insights.
