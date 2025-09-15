@@ -43,3 +43,11 @@ This dashboard is ideal for retail businesses or mobile manufacturers looking to
 - Monitor **monthly trends** to forecast demand
 
 ---
+## 📸 Dashboard Preview:
+
+![Dashboard Screenshot]
+(dashboard.png)
+(dashboard2.png)
+(dashboard3.png)
+
+---
