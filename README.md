@@ -31,8 +31,7 @@ This Power BI project presents an end-to-end interactive dashboard focused on **
 
 ## 📁 Files Included:
 - `Mobile_sales.pbix` – Complete Power BI dashboard
-- *(Optional)* `sample_mobile_data.csv` – Cleaned dataset
-- *(Optional)* `dashboard_preview.png` – Screenshot of the report
+- `dashboard_preview.png` – Screenshot of the report
 
 ---
 
